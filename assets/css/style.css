@@ -95,4 +95,21 @@ p {
     
 }
 
+@media screen and (min-width: 768px) {
+    nav ul {
+        list-style-type: none;
+        color: whitesmoke;
+        display: flex;
+        margin: 20px;
+       
+}
 
+nav ul li  {
+
+   margin-right: 10px;
+   right: 50%;
+      
+  }
+}
+
+  
