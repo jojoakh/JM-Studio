@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
     
-
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
     
 body {
     min-height: 100vh;
     box-sizing: border-box;
     font-family: 'roboto-serif', sans-serif;
-    font-size: 1.0rem;
     padding: 0;
     margin: 0;
-   
+  
  
 }
 
@@ -17,10 +20,12 @@ header {
     color: whitesmoke;
     padding: 2px 0;
     background-color: rgb(48, 45, 99);
-    box-shadow: 2px 0;
-   
-    
+  
+}
 
+
+h1 {
+    margin-left: 20px;
 }
 
 
@@ -30,7 +35,6 @@ nav {
     display: flex;
     letter-spacing: 2px;
     
-   
 
 }
 
@@ -42,14 +46,14 @@ nav ul {
 }
 
 nav ul li {
-    margin: 5%;
+  margin-right: 20px;
     color: whitesmoke;
     
 }
 
 nav ul li a {
     color: whitesmoke;
-    font-size: small;
+    font-size: 80%;
     font-weight: bolder;
    
 }
@@ -61,11 +65,15 @@ h2 {
     
     
 }
+ #dance>i {
 
+    display: block;
+ }
 p {
-   font-size: large;
+   font-size: 100%;
    
 }
+
 
 #image {
     
@@ -73,6 +81,7 @@ p {
     height: 300px;
 
 }
+  
 
 #contact {
     text-align: center;
@@ -83,7 +92,7 @@ p {
     width: 100%;
     font-size: 150%;
     font-weight: bolder;
-
-   
     
 }
+
+
