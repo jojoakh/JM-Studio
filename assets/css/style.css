@@ -61,13 +61,13 @@ nav ul li a {
 h2 {
     color: rgba(24, 24, 70, 0.892);
     font-size: 150%;
-    text-align: center
+    text-align: center;
     
     
 }
  #dance>i {
 
-    display: block;
+  display: flex;
  }
 p {
    font-size: 100%;
@@ -110,6 +110,48 @@ nav ul li  {
    right: 50%;
       
   }
+#dance {
+    text-align: right;
+    
+    
 }
 
+ 
+#image {
+    width: 50%;
+    background: cover;
+    height: 500px;
+}
+
+}
+
+@media screen and (min-width: 992px) {
+    nav ul {
+        list-style-type: none;
+        color: whitesmoke;
+        display: flex;
+        margin: 20px;
+       
+}
+
+nav ul li  {
+
+   margin-right: 10px;
+   right: 50%;
+      
+  }
+#dance {
+    text-align: right;
+    
+    
+}
+
+ 
+#image {
+    width: 50%;
+    background: cover;
+    height: 900px;
+}
+
+}
   
