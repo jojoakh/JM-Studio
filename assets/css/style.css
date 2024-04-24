@@ -8,7 +8,6 @@
 
 body {
     min-height: 100vh;
-    box-sizing: border-box;
     font-family: 'roboto-serif', sans-serif;
     padding: 0;
     margin: 0;
@@ -19,7 +18,9 @@ body {
 header {
 
     padding: 2px 0;
-    
+
+
+
 
 }
 
@@ -28,8 +29,8 @@ h1 {
     margin-left: 20px;
     font-weight: bold;
     color: whitesmoke;
-   
-   
+
+
 }
 
 
@@ -39,6 +40,7 @@ nav {
     display: flex;
     letter-spacing: 2px;
     background-color: rgb(48, 45, 99);
+
 
 
 }
@@ -79,7 +81,7 @@ h2 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
-   
+
 
 
 }
@@ -91,7 +93,7 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    
+
 
 }
 
@@ -115,6 +117,43 @@ h3 {
 
 #register {
     text-align: center;
+    display: block;
+    flex-direction: column;
+    border-radius: 5px;
+
+
+
+}
+
+input[type="email"],
+input[type="text"] {
+    margin-top: 10px;
+    padding: 8px;
+    border-radius: 6px;
+    width: 70%;
+}
+
+select {
+    margin-top: 10px;
+    padding: 8px;
+    border-radius: 6px;
+    width: 70%;
+
+
+}
+
+button {
+    background-color: rgb(48, 45, 99);
+    border-radius: 20px;
+    color: whitesmoke;
+    margin-top: 25px;
+    font-size: larger;
+    padding-inline: 6px;
+    border-width: 2px;
+
+
+
+
 }
 
 
@@ -127,11 +166,12 @@ h3 {
     width: 100%;
     font-size: 150%;
     font-weight: bolder;
+    background-color: rgb(255, 49, 128);
 
 }
 
 @media screen and (min-width: 768px) {
-   
+
     nav ul {
         list-style-type: none;
         color: whitesmoke;
@@ -154,13 +194,31 @@ h3 {
         height: 300px;
         max-width: 100%;
         background-size: contain;
-        
-       
+
+
     }
 
     #about {
         text-align: center;
     }
+
+    input[type="email"],
+    input[type="text"] {
+        margin-top: 10px;
+        padding: 8px;
+        border-radius: 6px;
+        width: 50%;
+    }
+
+    select {
+        margin-top: 10px;
+        padding: 8px;
+        border-radius: 6px;
+        width: 50%;
+
+
+    }
+
     #contact {
         text-align: center;
         justify-content: space-between;
@@ -190,17 +248,19 @@ h3 {
         background-size: contain;
         height: 500px;
         max-width: 100%;
-       
-       
-       
+
+
+
     }
-    
+
 
     #about {
         text-align: center;
     }
+
     #contact {
         text-align: center;
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
+
 }
