@@ -17,9 +17,9 @@ body {
 }
 
 header {
-    color: whitesmoke;
+
     padding: 2px 0;
-    background-color: rgb(48, 45, 99);
+    
 
 }
 
@@ -27,6 +27,8 @@ header {
 h1 {
     margin-left: 20px;
     font-weight: bold;
+    color: whitesmoke;
+   
    
 }
 
@@ -36,6 +38,7 @@ nav {
     align-items: center;
     display: flex;
     letter-spacing: 2px;
+    background-color: rgb(48, 45, 99);
 
 
 }
@@ -94,6 +97,7 @@ p {
 
 div {
     text-align: center;
+
 }
 
 h3 {
@@ -104,21 +108,13 @@ h3 {
 
 .image {
 
-    background: url('../images/dance-two.jpg') no-repeat center/cover;
+    background: url('../images/image-one.jpg') no-repeat center/cover;
     height: 300px;
 
 }
 
-ol {
-    font-style: italic;
+#register {
     text-align: center;
-    display: block;
-    list-style-type: none;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    padding-inline-start: 30px;
-   font-size: 80%;
-    
 }
 
 
@@ -155,11 +151,10 @@ ol {
 
     .image {
 
-        height: 500px;
+        height: 300px;
         max-width: 100%;
         background-size: contain;
-        background: cover;
-       
+        
        
     }
 
@@ -193,9 +188,9 @@ ol {
     .image {
 
         background-size: contain;
-        height: 700px;
+        height: 500px;
         max-width: 100%;
-        background: cover;
+       
        
        
     }
