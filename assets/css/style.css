@@ -20,8 +20,6 @@ header {
     padding: 2px 0;
 
 
-
-
 }
 
 
@@ -81,9 +79,13 @@ h2 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+    color: rgb(48, 45, 99);
 
 
 
+}
+header p {
+    color: rgb(48, 45, 99);
 }
 
 p {
@@ -93,6 +95,7 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+    
 
 
 }
@@ -106,6 +109,7 @@ h3 {
     text-align: center;
     margin-block-start: 1em;
     margin-block-end: 1em;
+    font-weight: bold;
 }
 
 .image {
@@ -114,12 +118,17 @@ h3 {
     height: 300px;
 
 }
+#about {
+    color: rgb(48, 45, 99);
+}
 
 #register {
     text-align: center;
     display: block;
     flex-direction: column;
     border-radius: 5px;
+    color: rgb(48, 45, 99);
+    font-weight: bold;
 
 
 
@@ -200,7 +209,7 @@ footer {
 
     .image {
 
-        height: 300px;
+        height: 500px;
         max-width: 100%;
         background-size: contain;
 
@@ -209,6 +218,7 @@ footer {
 
     #about {
         text-align: center;
+       
     }
 
     input[type="email"],
@@ -233,9 +243,13 @@ footer {
         justify-content: space-between;
 
     }
+
+    footer {
+        text-align: center;
+    }
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 995px) {
     nav ul {
         list-style-type: none;
         color: whitesmoke;
@@ -255,7 +269,7 @@ footer {
     .image {
 
         background-size: contain;
-        height: 500px;
+        height: 700px;
         max-width: 100%;
 
 
