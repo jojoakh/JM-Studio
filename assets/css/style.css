@@ -166,8 +166,17 @@ button {
     width: 100%;
     font-size: 150%;
     font-weight: bolder;
-    background-color: rgb(17, 20, 52);
+   
 
+}
+
+#contact i {
+    color: whitesmoke;
+    
+}
+footer {
+    background-color: rgb(17, 20, 52);
+    color: whitesmoke;
 }
 
 @media screen and (min-width: 768px) {
@@ -207,14 +216,14 @@ button {
         margin-top: 10px;
         padding: 8px;
         border-radius: 6px;
-        width: 50%;
+        width: 30%;
     }
 
     select {
         margin-top: 10px;
         padding: 8px;
         border-radius: 6px;
-        width: 50%;
+        width: 30%;
 
 
     }
@@ -259,8 +268,11 @@ button {
     }
 
     #contact {
-        text-align: center;
         justify-content: space-evenly;
     }
+    footer {
+        text-align: center;
+    }
+   
 
 }
