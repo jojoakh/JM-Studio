@@ -120,6 +120,8 @@ h3 {
 }
 #about {
     color: rgb(48, 45, 99);
+    
+  
 }
 
 #register {
@@ -279,7 +281,9 @@ footer {
 
     #about {
         text-align: center;
+        
     }
+    
 
     #contact {
         justify-content: space-evenly;
