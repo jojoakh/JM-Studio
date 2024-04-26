@@ -10,6 +10,15 @@ html {
     scroll-behavior: smooth;
 }
 
+html, body {
+    height: 100%;
+}
+
+body > footer {
+    position: sticky;
+    top: 100vh;
+}
+
 body {
     min-height: 100vh;
     font-family: 'roboto-serif', sans-serif;
@@ -133,8 +142,10 @@ h3 {
     display: block;
     flex-direction: column;
     border-radius: 5px;
-    color: rgb(48, 45, 99);
+    color: whitesmoke;
     font-weight: bold;
+    background: url('../images/image-five.jpg') no-repeat center/cover;
+    height: 400px;
 
 
 
@@ -296,5 +307,8 @@ footer {
         text-align: center;
     }
    
-
+    #register {
+       
+        height: 500px;
+    }
 }
