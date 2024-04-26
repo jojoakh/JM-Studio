@@ -9,7 +9,8 @@ all the informations on how to register and the time for dance class can be foun
 
 The Header
 
-The top of the page shows the name of the title of the page to the left which is:JM dance studio. and to the right the navigation links: Home, About, Register, Contact.
+The top of the page shows the name of the title of the page to the left  JM dance studio. and to the right the navigation links: Home, About, Register, Contact.
+
 
 
 
