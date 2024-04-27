@@ -148,7 +148,7 @@ h3 {
     color: whitesmoke;
     font-weight: bold;
     background: url('../images/image-five.jpg') no-repeat center/cover;
-    height: 350px;
+    height: 400px;
 
 
 }
@@ -185,6 +185,10 @@ button {
 
 }
 
+#gallery img {
+    width: 100%;
+    line-height: 1em;
+}
 
 #contact {
     text-align: center;
@@ -263,6 +267,10 @@ footer {
 
     }
 
+    #gallery {
+        column-count: 2;
+    }
+
     footer {
         text-align: center;
     }
@@ -312,5 +320,8 @@ footer {
     #register {
        
         height: 500px;
+    }
+    #gallery {
+        column-count: 3;
     }
 }
