@@ -128,9 +128,12 @@ h3 {
 .image {
 
     background: url('../images/image-one.jpg') no-repeat center/cover;
-    height: 300px;
-
+    width: 100%;
+    
+    
 }
+
+
 #about {
     color: rgb(48, 45, 99);
     
@@ -145,11 +148,11 @@ h3 {
     color: whitesmoke;
     font-weight: bold;
     background: url('../images/image-five.jpg') no-repeat center/cover;
-    height: 400px;
-
+    height: 350px;
 
 
 }
+
 
 input[type="email"],
 input[type="text"] {
@@ -226,8 +229,7 @@ footer {
 
     .image {
 
-        height: 500px;
-        max-width: 100%;
+        max-width: 80%;
         background-size: contain;
 
 
@@ -286,8 +288,8 @@ footer {
     .image {
 
         background-size: contain;
-        height: 700px;
-        max-width: 100%;
+        
+        max-width: 80%;
 
 
 
