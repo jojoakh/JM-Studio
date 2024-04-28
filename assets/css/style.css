@@ -34,13 +34,14 @@ header {
 
 
 }
-
+ 
 
 h1 {
     margin-left: 20px;
     font-weight: bold;
     color: whitesmoke;
-    
+    cursor: pointer;
+   
 
 
 }
@@ -52,6 +53,7 @@ nav {
     display: flex;
     letter-spacing: 2px;
     background-color: rgb(48, 45, 99);
+   
 
 
 
@@ -83,6 +85,7 @@ nav ul li a {
     font-weight: bolder;
 
 }
+
 
 h2 {
     font-size: 100%;
