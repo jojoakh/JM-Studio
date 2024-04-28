@@ -23,9 +23,22 @@ There are several features on the website to help intended users navigate throug
     - The navigation bar featured at the top of the page. it shows the name of the studio and the navigation links to the pages- Home, About, contact, Register, gallery.
     
     - The navigation bar has a  background-color: rgb(48, 45, 99); and color: whitesmoke.
-    - 
+    
+    ![](assets/images/Screenshot-header2.png)
+    ![](assets/images/Screenshot-header.png)
 
- 
+ - **The image section**
+
+    - This section shows the image used for in the first page.
+    - the image clearly shows what this website is about to potential users.
+
+    ![Image](assets/images/image-one.jpg)
+
+- **About Us section**
+    - This section shows the potenttial users what JM dance studio has to offer.
+    - this section also includes the days and time for dance lessons.
+
+    ![About us](assets/images/Screenshot-about.png)
 
 
 
