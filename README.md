@@ -25,6 +25,8 @@ There are several features on the website to help intended users navigate throug
     - The navigation bar has a  background-color: rgb(48, 45, 99); and color: whitesmoke.
     
     ![](assets/images/Screenshot-header2.png)
+
+
     ![](assets/images/Screenshot-header.png)
 
  - **The image section**
@@ -35,10 +37,29 @@ There are several features on the website to help intended users navigate throug
     ![Image](assets/images/image-one.jpg)
 
 - **About Us section**
-    - This section shows the potenttial users what JM dance studio has to offer.
+    - This section shows the potential users what JM dance studio has to offer.
     - this section also includes the days and time for dance lessons.
 
     ![About us](assets/images/Screenshot-about.png)
+
+
+- **Footer**
+    - The Footer is featured in all the pages.
+    - the footer contains contact information incase the users needs to get in touch.
+    - the contact information includes: Phone number, Email, and Address.
+    - the footer also includes social media icons which the users can just click on to find JM dance studio on facebook, twitter, youtube, and instagram.
+
+
+![Footer image](assets/images/Screenshot-footer.png)
+
+
+- **Register section**
+
+    - In this section, a person can register for the dance lessons.
+    - the form collects the name, email and gender of the person who wants to register.
+
+    
+
 
 
 
