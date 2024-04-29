@@ -110,6 +110,15 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | Confirmation of registration | ![screenshot](documentation/screenshot-htmlc.png) | Pass: No Errors |
 
 
+### CSS
+
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
+
+| File | Jigsaw URL | Screenshot | Notes |
+| --- | --- | --- | 
+| style.css | ![screenshot](documentation/screenshot-w3c-css.png) | Pass: No Errors |
+
+
 
 
 
