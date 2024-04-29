@@ -74,6 +74,22 @@ There are several features on the website to help intended users navigate throug
     ![Gallery](assets/images/Screenshot-gallery.png)
 
 
+## Testing
+
+## Code Validation
+
+### HTML
+
+I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
+
+| Page | Screenshot | Notes |
+| --- | --- | --- |
+| Home | ![screenshot](assets/images/Screenshot-html.png) | Pass: No Errors |
+| Register | ![screenshot](assets/images/Screenshot-htmlr.png) | Pass: No Errors |
+| Gallery  | ![screenshot](assets/images/Screenshot-htmlg.png) | Pass: No Errors |
+| Confirmation of registration | ![screenshot](assets/images/Screenshot-htmlc.png) | Pass: No Errors |
+
+
 
 
 
