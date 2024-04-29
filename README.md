@@ -11,7 +11,7 @@ all the informations on how to register and the time for dance class can be foun
 ![](documentation/screenshot-one.png)
 ![](documentation/screenshot-two.png)
 
-### Colour Scheme
+### Color Scheme
 
 - `#302d63` used primarily for the background colour for features such as navbar, color for text in the about section, background color for submit button.
 - `#111434` used for footer.
@@ -20,7 +20,15 @@ all the informations on how to register and the time for dance class can be foun
 
 ![color palette](documentation/color-palette.png)
 
-I used [coolers](https://coolors.co/302d63-111434-f5f5f5) generate my color palette
+I used [coolers](https://coolors.co/302d63-111434-f5f5f5) generate my color palette.
+
+
+### Typography
+
+
+- [Roboto](https://fonts.google.com/share?selection.family=Roboto+Serif:ital,opsz,wdth,wght,GRAD@0,8..144,50..150,100..900,-50..100;1,8..144,50..150,100..900,-50..100) used for the body.
+
+- [Font Awesome](https://fontawesome.com) icons were used the social media links in the the footer.
 
 
 ## Features
