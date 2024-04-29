@@ -11,6 +11,18 @@ all the informations on how to register and the time for dance class can be foun
 ![](documentation/screenshot-one.png)
 ![](documentation/screenshot-two.png)
 
+### Colour Scheme
+
+- `#302d63` used primarily for the background colour for features such as navbar, color for text in the about section, background color for submit button.
+- `#111434` used for footer.
+- `#f5f5f5` used for some text through out the page.
+
+
+![color palette](documentation/color-palette.png)
+
+I used [coolers](https://coolors.co/302d63-111434-f5f5f5) generate my color palette
+
+
 ## Features
 
 There are several features on the website to help intended users navigate through the pages to enable them understand what the website is for.
@@ -69,7 +81,7 @@ There are several features on the website to help intended users navigate throug
 
 - **Gallery section**
 
-    -this section contains dance images.
+    - This section contains dance images.
 
     ![Gallery](documentation/screenshot-gallery.png)
 
