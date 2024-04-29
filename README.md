@@ -8,8 +8,8 @@ all the informations on how to register and the time for dance class can be foun
 
 [Website link](https://jojoakh.github.io/JM-Studio/)
 
-![](assets/images/Screenshot-one.png)
-![](assets/images/Screenshot-two.png)
+![](documentation/screenshot-one.png)
+![](documentation/screenshot-two.png)
 
 ## Features
 
@@ -24,10 +24,10 @@ There are several features on the website to help intended users navigate throug
     
     - The navigation bar has a  background-color: rgb(48, 45, 99); and color: whitesmoke.
     
-    ![](assets/images/Screenshot-header2.png)
+    ![](documentation/screenshot-header2.png)
 
 
-    ![](assets/images/Screenshot-header.png)
+    ![](documentation/screenshot-header.png)
 
  - **The image section**
 
@@ -40,7 +40,7 @@ There are several features on the website to help intended users navigate throug
     - This section shows the potential users what JM dance studio has to offer.
     - this section also includes the days and time for dance lessons.
 
-    ![About us](assets/images/Screenshot-about.png)
+    ![About us](documentation/screenshot-about.png)
 
 
 - **Footer**
@@ -50,7 +50,7 @@ There are several features on the website to help intended users navigate throug
     - the footer also includes social media icons which the users can just click on to find JM dance studio on facebook, twitter, youtube, and instagram.
 
 
-![Footer image](assets/images/Screenshot-footer.png)
+![Footer image](documentation/screenshot-footer.png)
 
 
 - **Register section**
@@ -63,15 +63,15 @@ There are several features on the website to help intended users navigate throug
       redirected back to the home page.
 
 
-    ![](assets/images/Screenshot-register.png)
+    ![](documentation/screenshot-register.png)
 
-    ![](assets/images/Screenshot-confirm.png)
+    ![](documentation/screenshot-confirm.png)
 
 - **Gallery section**
 
     -this section contains dance images.
 
-    ![Gallery](assets/images/Screenshot-gallery.png)
+    ![Gallery](documentation/screenshot-gallery.png)
 
 
 ## Testing
@@ -82,12 +82,12 @@ There are several features on the website to help intended users navigate throug
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-| Page | Screenshot | Notes |
+| Page | screenshot | Notes |
 | --- | --- | --- |
-| Home | ![screenshot](assets/images/Screenshot-html.png) | Pass: No Errors |
-| Register | ![screenshot](assets/images/Screenshot-htmlr.png) | Pass: No Errors |
-| Gallery  | ![screenshot](assets/images/Screenshot-htmlg.png) | Pass: No Errors |
-| Confirmation of registration | ![screenshot](assets/images/Screenshot-htmlc.png) | Pass: No Errors |
+| Home | ![screenshot](documentation/screenshot-html.png) | Pass: No Errors |
+| Register | ![screenshot](documentation/screenshot-htmlr.png) | Pass: No Errors |
+| Gallery  | ![screenshot](documentation/screenshot-htmlg.png) | Pass: No Errors |
+| Confirmation of registration | ![screenshot](documentation/screenshot-htmlc.png) | Pass: No Errors |
 
 
 
