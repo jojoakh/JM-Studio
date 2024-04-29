@@ -56,9 +56,22 @@ There are several features on the website to help intended users navigate throug
 - **Register section**
 
     - In this section, a person can register for the dance lessons.
-    - the form collects the name, email and gender of the person who wants to register.
+    - The form collects the name, email and gender of the person who wants to register.
+    - The register section opens in a different page.
+    - The Register form has a validator that encourages users to use a valid email when signing up.
+    - The Register page redirects you to a thank you page after submitting the form. After the user waits 10 seconds they are    
+      redirected back to the home page.
 
-    
+
+    ![](assets/images/Screenshot-register.png)
+
+    ![](assets/images/Screenshot-confirm.png)
+
+- **Gallery section**
+
+    -this section contains dance images.
+
+    ![Gallery](assets/images/Screenshot-gallery.png)
 
 
 
