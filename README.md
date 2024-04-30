@@ -149,6 +149,14 @@ I've tested my deployed project for responsiveness issues.
 | Gallery | ![screenshot](documentation/screenshot-lighthouse-gallery-mobile.png) | ![screenshot](documentation/screenshot-lighthouse-gallery-desktop.png) | Slow response due to large image sizes |
 | Form confirmation | ![screenshot](documentation/screenshot-lighthouse-confirmation-mobile.png) | ![screenshot](documentation/screenshot-lighthouse-confirmation-desktop.png) | minor warnings because of meta refresh |
 
+## Bugs
+
+ - During my code validation process with [HTML W3C Validator](https://validator.w3.org) i got an error due to space in the image file name
+
+    ![screenshot](documentation/screenshot-bug-image.png)
+    
+   
+    - To fix this, I removed the space.
 
 
 ## Deployment
@@ -210,4 +218,9 @@ You can fork this repository by using the following steps:
 [Pexels](https://www.pexels.com/photo/a-woman-and-a-girl-stretching-their-arms-and-legs-7319742/) | gallery | image | image seven in gallery |
 [Pexels](https://www.pexels.com/photo/girls-lying-down-on-the-floor-in-a-dance-studio-7319741/) | gallery | image | image eight in gallery |
 [Pexels](https://www.pexels.com/photo/ballerina-dancing-in-spacious-studio-with-barre-5149614/) | gallery | image | image nine in gallery |
+
+
+### Acknowledgement
+
+- I would like to say a big thank you to my mentor for this project, [Tim Nelson](https://github.com/TravelTimN) for his support throughout the development of this project.
 
