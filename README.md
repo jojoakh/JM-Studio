@@ -6,7 +6,7 @@
 JM Dance studio is a website design for people who wants to improve their dance move and also connect with new people and make new friends.
 all the informations on how to register and the time for dance class can be found in this website and the contact information.
 
-[Website link](https://jojoakh.github.io/JM-Studio/)
+
 
 ![](documentation/screenshot-one.png)
 ![](documentation/screenshot-two.png)
@@ -148,7 +148,8 @@ The site was deployed to GitHub Pages. The steps to deploy are as follows:
 - In the [GitHub repository](https://github.com/jojoakh/JM-Studio), navigate to the Settings tab 
 - From the source section drop-down menu, select the **Main** Branch, then click "Save".
 - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-
+ 
+ [Live link](https://jojoakh.github.io/JM-Studio/)
 
 ### Local Deployment
 
