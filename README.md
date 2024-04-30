@@ -144,9 +144,9 @@ I've tested my deployed project for responsiveness issues.
 
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/screenshot-lighthouse-home-mobile.png) | ![screenshot](documentation/screenshot-lighthouse-home-desktop.png) | no warnings |
+| Home | ![screenshot](documentation/screenshot-lighthouse-home-mobile.png) | ![screenshot](documentation/screenshot-lighthouse-home-desktop.png) | less warnings |
 | register | ![screenshot](documentation/screenshot-lighthouse-register-mobile.png) | ![screenshot](documentation/screenshot-lighthouse-register-desktop.png) | some minor warnings |
-| Gallery | ![screenshot]() | ![screenshot]() | Some minor warnings |
+| Gallery | ![screenshot](documentation/screenshot-lighthouse-gallery-mobile.png) | ![screenshot](documentation/screenshot-lighthouse-gallery-desktop.png) | Slow response due to large image sizes |
 | Form confirmation | ![screenshot](documentation/screenshot-lighthouse-confirmation-mobile.png) | ![screenshot](documentation/screenshot-lighthouse-confirmation-desktop.png) | minor warnings because of meta refresh |
 
 
