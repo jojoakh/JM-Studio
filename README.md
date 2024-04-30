@@ -141,8 +141,62 @@ I've tested my deployed project for responsiveness issues.
 | Desktop | ![screenshot](documentation/screenshot-desktop-home.png) | ![screenshot](documentation/screenshot-desktop-register.png) | ![screenshot](documentation/screenshot-desktop-gallery.png) | ![screenshot](documentation/screenshot-desktop-confirmation.png) | Works as expected |
 
 
+## Deployment
+
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+
+- In the [GitHub repository](https://github.com/jojoakh/JM-Studio), navigate to the Settings tab 
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 
+### Local Deployment
+
+This project can be cloned or forked in order to make a local copy on your own system.
+
+You can clone the repository by following these steps:
+
+1. Go to the [GitHub repository](https://github.com/jojoakh/JM-Studio) 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash or Terminal
+5. Change the current working directory to the one where you want the cloned directory
+6. In your IDE Terminal, type the following command to clone my repository:
+	- `git clone https://github.com/jojoakh/JM-Studio.git`
+7. Press Enter to create your local clone.
 
 
+#### Forking
+
+By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
+You can fork this repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/jojoakh/JM-Studio)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+
+
+## Credits
+
+### Content
+
+| Source | Location | Notes |
+| --- | --- | --- |
+| [Font Awesome](https://fontawesome.com/) | Footer | helpful website that provided the icons for the footer |
+
+### Media
+
+| Source | Location | Type | Notes |
+| --- | --- | --- | --- |
+[Pexels](https://www.pexels.com/photo/girls-dancing-together-inside-the-dance-studio-7319698/) | home page | image | main section background |
+[pexels](https://www.pexels.com/photo/woman-in-a-dance-studio-doing-leg-split-6926056/) | register | image | image used for the register section |
+[Pexels](https://www.pexels.com/photo/two-women-dancing-back-to-back-in-a-dance-studio-7928480/) | gallery | image | first image in gallery page |
+[Pexels](https://www.pexels.com/photo/people-rehearsing-a-dance-6926538/) | gallery | image | second image in gallery page |
+[Pexels](https://www.pexels.com/photo/group-of-people-warming-up-on-a-dance-studio-6926035/) | gallery | image | third image in gallery page |
+[Pexels](https://www.pexels.com/photo/man-and-woman-dancing-in-a-dance-studio-during-a-practice-6926451/) | gallery | image | fourth image in gallery |
+[Pexels](https://www.pexels.com/photo/group-of-dancers-sitting-on-the-floor-6926634/) | gallery | image | fifth image in gallery |
+[Pexels](https://www.pexels.com/photo/a-man-dancing-in-front-of-the-mirror-8853841/) | gallery | image | image six in gallery |
+[Pexels](https://www.pexels.com/photo/a-woman-and-a-girl-stretching-their-arms-and-legs-7319742/) | gallery | image | image seven in gallery |
+[Pexels](https://www.pexels.com/photo/girls-lying-down-on-the-floor-in-a-dance-studio-7319741/) | gallery | image | image eight in gallery |
+[Pexels](https://www.pexels.com/photo/ballerina-dancing-in-spacious-studio-with-barre-5149614/) | gallery | image | image nine in gallery |
 
