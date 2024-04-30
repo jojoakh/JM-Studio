@@ -119,6 +119,28 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | style.css | ![screenshot](documentation/screenshot-w3c-css.png) | Pass: No Errors |
 
 
+## Browser Compatibility
+
+I've tested my deployed project on multiple browsers to check for compatibility issues.
+
+| Browser | Home | Register | Gallery | Form Confirmation | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Chrome | ![screenshot](documentation/screenshot-chrome-home.png) | ![screenshot](documentation/screenshot-chrome-register.png) | ![screenshot](documentation/screenshot-chrome-gallery.png) | ![screenshot](documentation/screenshot-chrome-comfirmation.png) | Works as expected |
+| Opera | ![screenshot](documentation/opera-snapshot_2024-04-30_131904_jojoakh.github.io.png) | ![screenshot](documentation/opera-snapshot-register_2024-04-30_132004_jojoakh.github.io.png) | ![screenshot](documentation/opera-snapshot-gallery_2024-04-30_132132_jojoakh.github.io.png) | ![screenshot](documentation/opera-snapshot-comfirmation_2024-04-30_133547_jojoakh.github.io.png) | Works as expected |
+| Edge | ![screenshot](documentation/screenshot-edge-home2024-04-30%20132500.png) | ![screenshot](documentation/screenshot-egde-register.png) | ![screenshot](documentation/screenshot-edge-gallery.png) | ![screenshot](documentation/screenshot-edge-comfirmation.png) | Works as expected |
+
+
+## Responsiveness
+
+I've tested my deployed project for responsiveness issues.
+
+| Device | Home | Register | Gallery | Form Confirmation | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Mobile (DevTools) | ![screenshot](documentation/screenshot-mobile-devtools-home.png) | ![screenshot](documentation/screenshot-mobile-devtools-register.png) | ![screenshot](documentation/screenshot-mobile-devtools-gallery.png) | ![screenshot](documentation/screenshot-mobile-devtools-confirmation.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/screenshot-tablets-devtools-home.png) | ![screenshot](documentation/screenshot-tablets-devtools-register.png) | ![screenshot](documentation/screenshot-tablets-devtools-gallery.png) | ![screenshot](documentation/screenshot-tablets-devtools-comfirmation.png) | Works as expected |
+| Desktop | ![screenshot](documentation/screenshot-desktop-home.png) | ![screenshot](documentation/screenshot-desktop-register.png) | ![screenshot](documentation/screenshot-desktop-gallery.png) | ![screenshot](documentation/screenshot-desktop-confirmation.png) | Works as expected |
+
+
 
 
 
