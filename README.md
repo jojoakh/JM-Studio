@@ -141,6 +141,8 @@ I've tested my deployed project for responsiveness issues.
 | Desktop | ![screenshot](documentation/screenshot-desktop-home.png) | ![screenshot](documentation/screenshot-desktop-register.png) | ![screenshot](documentation/screenshot-desktop-gallery.png) | ![screenshot](documentation/screenshot-desktop-confirmation.png) | Works as expected |
 
 
+
+
 ## Deployment
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
