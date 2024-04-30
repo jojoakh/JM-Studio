@@ -140,6 +140,14 @@ I've tested my deployed project for responsiveness issues.
 | Tablet (DevTools) | ![screenshot](documentation/screenshot-tablets-devtools-home.png) | ![screenshot](documentation/screenshot-tablets-devtools-register.png) | ![screenshot](documentation/screenshot-tablets-devtools-gallery.png) | ![screenshot](documentation/screenshot-tablets-devtools-comfirmation.png) | Works as expected |
 | Desktop | ![screenshot](documentation/screenshot-desktop-home.png) | ![screenshot](documentation/screenshot-desktop-register.png) | ![screenshot](documentation/screenshot-desktop-gallery.png) | ![screenshot](documentation/screenshot-desktop-confirmation.png) | Works as expected |
 
+## Lighthouse Audit
+
+| Page | Mobile | Desktop | Notes |
+| --- | --- | --- | --- |
+| Home | ![screenshot](documentation/screenshot-lighthouse-home-mobile.png) | ![screenshot](documentation/screenshot-lighthouse-home-desktop.png) | no warnings |
+| register | ![screenshot](documentation/screenshot-lighthouse-register-mobile.png) | ![screenshot](documentation/screenshot-lighthouse-register-desktop.png) | some minor warnings |
+| Gallery | ![screenshot]() | ![screenshot]() | Some minor warnings |
+| Form confirmation | ![screenshot](documentation/screenshot-lighthouse-confirmation-mobile.png) | ![screenshot](documentation/screenshot-lighthouse-confirmation-desktop.png) | minor warnings because of meta refresh |
 
 
 
