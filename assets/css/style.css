@@ -34,9 +34,11 @@ body {
 header {
 
     padding: 2px 0px;
-    position: sticky;
+    position: fixed;
     top: 0;
     z-index: 99;
+    left: 0;
+    right: 0;
 
  
 }
@@ -113,8 +115,7 @@ div {
 /* Main content */
 main {
     
-    display: block;
-    unicode-bidi: isolate;
+    margin-top: 7em;
     
 }
 
@@ -141,6 +142,7 @@ h3 {
 /* About section */
 #about {
     color: rgb(48, 45, 99);
+    scroll-margin-top: 7em;
 
 
 }
