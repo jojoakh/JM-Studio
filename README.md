@@ -221,7 +221,7 @@ You can fork this repository by using the following steps:
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Font Awesome](https://fontawesome.com/) | Footer | helpful website that provided the icons for the footer |
-| [Code institute](https://learn.codeinstitute.net/) | Footer | code for the footer was from love running project |
+| [Code institute](https://learn.codeinstitute.net/) | Entire project | inspiration from the love running project |
 ### Media
 
 | Source | Location | Type | Notes |
