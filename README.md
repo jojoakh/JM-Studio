@@ -93,9 +93,15 @@ There are several features on the website to help intended users navigate throug
 
     ![Gallery](documentation/screenshot-gallery.png)
 
- ## Tools & Technologies Used
+### Future Features
 
-- [![Git](https://img.shields.io/badge/Git-grey?logo=git&logoColor=F05032)](https://git-scm.com) used for version control. (\`git add`, `git commit`, `git push`)
+- I would like to have live map location on the website
+- i would also like to have class schedule for different dance types like ballet, hip hop and ballroom dance
+- Another feature i would like to have is schedule for different age group
+
+## Tools & Technologies Used
+
+- [![Git](https://img.shields.io/badge/Git-grey?logo=git&logoColor=F05032)](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=181717)](https://github.com) used for secure online code storage.
 - [![Gitpod](https://img.shields.io/badge/Gitpod-grey?logo=gitpod&logoColor=FFAE33)](https://gitpod.io) used as a cloud-based IDE for development.
 - [![HTML](https://img.shields.io/badge/HTML-grey?logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML) used for the main site content.
@@ -184,6 +190,8 @@ The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
 This project can be cloned or forked in order to make a local copy on your own system.
 
+#### Cloning
+
 You can clone the repository by following these steps:
 
 1. Go to the [GitHub repository](https://github.com/jojoakh/JM-Studio) 
@@ -213,7 +221,7 @@ You can fork this repository by using the following steps:
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Font Awesome](https://fontawesome.com/) | Footer | helpful website that provided the icons for the footer |
-
+| [Code institute](https://learn.codeinstitute.net/) | Footer | code for the footer was from love running project |
 ### Media
 
 | Source | Location | Type | Notes |
